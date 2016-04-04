@@ -1,0 +1,18 @@
+{
+  "author": "Yash Dixit <dixit.yash5@gmail.com>",
+  "name": "comedytv",
+  "description": "ComedyTv Application Server",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.13.4"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
